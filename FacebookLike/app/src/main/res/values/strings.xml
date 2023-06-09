@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FacebookLike</string>
+    <string name="search">Rechercher</string>
+    <string name="home">home</string>
+    <string name="menu">Menu</string>
+    <string name="notifications">notifications</string>
+    <string name="news">nouvelles</string>
+    <string name="marketplace">marketplace</string>
+    <string name="reels">reels</string>
+    <string name="whats_on_your_mind">Quoi de neuf ?</string>
+    <string name="live">Direct</string>
+    <string name="photo">Photos</string>
+    <string name="discuss">Discussion</string>
+    <string name="try_again">Try again</string>
+    <string name="like">j\'aime</string>
+    <string name="comment">Commentaire</string>
+    <string name="share">Partager</string>
+    <string name="just_now">En lingne</string>
+    <string name="create_a_story">Ajouter une story</string>
+    <string name="add">Ajouter</string>
+
+
+    <string name="facebook_app_id">6224663314246768</string>
+    <string name="fb_login_protocol_scheme">fb6224663314246768</string>
+    <string name="facebook_client_token">869c62eacda1b9e21ac13614da769184</string>
+
+
+
+</resources>

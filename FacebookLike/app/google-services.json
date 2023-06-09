@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "506358528169",
+    "project_id": "facebook-like-69eb9",
+    "storage_bucket": "facebook-like-69eb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506358528169:android:d5d8f62a4ee345733ad1b8",
+        "android_client_info": {
+          "package_name": "com.example.facebooklike"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506358528169-d9ntc0v1onjns96br5duim996o0phhe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUhUrtTQIlpLjdP-b8zxwqKWoxfOL9gQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506358528169-d9ntc0v1onjns96br5duim996o0phhe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506358528169:android:aec5a2a2bb5c76e83ad1b8",
+        "android_client_info": {
+          "package_name": "com.example.facebooklikee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "506358528169-62o603vl2bk02h9p572ni4maku9rglmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.facebooklikee",
+            "certificate_hash": "77f30e4e0ccb969421e0cfc141397f5632298213"
+          }
+        },
+        {
+          "client_id": "506358528169-d9ntc0v1onjns96br5duim996o0phhe2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUhUrtTQIlpLjdP-b8zxwqKWoxfOL9gQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "506358528169-d9ntc0v1onjns96br5duim996o0phhe2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
